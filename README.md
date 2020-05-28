@@ -27,3 +27,6 @@ Link to the dataset: https://drive.google.com/open?id=1dRfIzUsmwD-ZmURbwPbGjbG-k
 ## Additional data
 - [Pretrained Node2Vec model](https://drive.google.com/open?id=1GHPqj_5pi3pPiRYuZvvtXhRKv38aVRhY)
 - [Result of the work of each model from solution.ipynb](https://drive.google.com/open?id=1pErKYHUtORbRffrPhJhGtNeL9ck42Fge)
+
+## Results
+![Public: 6404; Private: 6389](https://github.com/Shemka/Finnet_Challenge_Solution/blob/master/img/public_private.jpg)
